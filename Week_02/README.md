@@ -26,6 +26,7 @@
 代码模板：
 
 三种遍历方式仅需调整遍历顺序, 以中序遍历为例
+
 迭代: 基于DFS迭代
 ```python
 def do_somthing(node):
